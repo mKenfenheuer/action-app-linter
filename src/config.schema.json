@@ -96,6 +96,10 @@
       "default": false,
       "type": "boolean"
     },
+    "gpu": {
+      "default": false,
+      "type": "boolean"
+    },
     "hassio_api": {
       "default": false,
       "type": "boolean"
